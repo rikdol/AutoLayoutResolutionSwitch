@@ -1,0 +1,9 @@
+## Interface: 120001
+## Title: Auto Layout Switch
+## Notes: Automatically switches Edit Mode layout based on screen resolution
+## Author: RkdL
+## Version: 2.0
+
+utils.lua
+main.lua
+commands.lua
